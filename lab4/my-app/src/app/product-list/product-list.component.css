@@ -5,10 +5,11 @@ img {
 button {
     margin-bottom: 7px;
     margin-right: 10px;
+    color: black;
 }
 
 a {
-    color: white;
+    color: rgb(0, 0, 0);
 }
 
 .whatsapp {
